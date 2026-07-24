@@ -1,0 +1,8 @@
+CustomerID,Age,Annual_Income_k,City
+101,23.0,50.0,New York
+102,45.0,85.0,Paris
+103,,62.0,New York
+104,31.0,,London
+105,22.0,45.0,
+106,54.0,120.0,London
+107,38.0,350.0,Paris
